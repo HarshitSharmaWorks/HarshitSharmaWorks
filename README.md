@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harshit Sharma
-- 👀 I’m interested in Software Development and Artificial Intelligence
+- 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning Natural Language Processing
-- 💞️ My Specality includes Software Development, Software Testing and Data Science
-- ⚡ I'm also Actively looking for a job in India
+- 💞️ My speciality includes Software Development, Software Testing and Data Science
+- ⚡ I'm also actively looking for a job in India
 - 📫 You can reach me on harshusharma376@gmail.com
 
 <!---
